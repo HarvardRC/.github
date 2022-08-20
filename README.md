@@ -1,2 +1,0 @@
-# .github
-Harvard Research Computing
